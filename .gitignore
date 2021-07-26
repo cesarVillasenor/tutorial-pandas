@@ -1,4 +1,7 @@
 .venv
 *.csv
 *.pdf
+*.json
+*.tsv
+*.xlsx
 .ipynb_checkpoints
